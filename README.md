@@ -13,3 +13,9 @@ with Random Forest](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/m
 Random Forest is nothing more than a bunch of Decision Trees combined. They can handle categorical features very well.
 This algorithm can handle high dimensional spaces as well as large number of training examples.
 Random Forests can almost work out of the box and that is one reason why they are very popular.
+    _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, nltk, Re_
+    
+- ### Natural Language Processing
+    - [Text classification using NLTK](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/ML_Micro_Projects/ML%20with%20Random%20Forest%20(muli-class%2C%20multi-label%20classifier).py): 
+    Using Natural Language Toolkit, I built a classification system for text inputs.
+     
