@@ -16,6 +16,13 @@ Random Forests can almost work out of the box and that is one reason why they ar
 
    _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NLTK, Re_
     
+    - [Supervised Learning: Phony article detection with Machine Learning (based on its link and title)](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/ML_Micro_Projects/ML%20with%20Random%20Forest%20(Article%20classification%20based%20on%20link%20and%20title).ipynb):
+A model is trained to detect phony article based on its link and title. Links are parsed with urlparser from urllib library.
+ Length of the link, netloc and the title are used as features to train a supervised learning Random Forest classifier model
+  to detect whether an article is phony or not.
+  _Tools: urlparse, scikit-learn, Pandas, NLTK_
+
+    
 - ### Natural Language Processing
     - [Text classification using NLTK](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/ML_Micro_Projects/ML%20with%20Random%20Forest%20(muli-class%2C%20multi-label%20classifier).py): 
     Using Natural Language Toolkit, I built a classification system for text inputs.
