@@ -20,6 +20,7 @@ Random Forests can almost work out of the box and that is one reason why they ar
 A model is trained to detect phony article based on its link and title. Links are parsed with urlparser from urllib library.
  Length of the link, netloc and the title are used as features to train a supervised learning Random Forest classifier model
   to detect whether an article is phony or not.
+  
   _Tools: urlparse, scikit-learn, Pandas, NLTK_
 
     
