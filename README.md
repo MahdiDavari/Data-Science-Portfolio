@@ -12,10 +12,10 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
      map](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.ipynb):
     This interactive map show the number of incidents happended in a neighborhood of NYC and the popup
      on any datapoint in a given zip code, give the top 4 incident happended in the zip code duriong 2016.
-     Here is the link to see the [HTML map:](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.html]
+     Here is the link to see the [HTML map:](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.html)
 )
 
-       _Tools: Pandas, folium
+  _Tools: Pandas, Folium (Maps visualization), Numpy
 
     
 - ### Machine Learning
