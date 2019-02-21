@@ -19,7 +19,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
     - In this project, Incidents responded to by fire companies in NYC dataset is used from [NYC OpenDate](    https://data.cityofnewyork.us/Public-Safety/Incidents-Responded-to-by-Fire-Companies/tm6d-hbzd/data
 ), Census Populations by Zip Code is used from Data.gov and zip code latitude and longitude is used from [Census.gov](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).  
     
-    ![github-small](http://opendata.cityofnewyork.us/)
+    ![github-small](https://opendata.cityofnewyork.us/wp-content/themes/opendata-wp/assets/img/nyc-open-data-logo.svg)
+    ![github-small](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/United_States_Census_Bureau_Wordmark.svg/300px-United_States_Census_Bureau_Wordmark.svg.png)
     ![github-small](https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2015/08/cl03j7swsaazth3-300x136.png)
     
   _Tools: Pandas, Folium (Maps visualization), Numpy_
