@@ -11,11 +11,17 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
     - [Data Science Project 1: Incidents responded to by fire companies in NYC in an interactive
      map](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.ipynb):
     This interactive map show the number of incidents happended in a neighborhood of NYC and the popup
-     on any datapoint in a given zip code, give the top 4 incident happended in the zip code duriong 2016.
+     on any datapoint in a given zip code, give the top 4 incident happended in the zip code during 2013-2017.
 
     - Here is the link to see the [HTML Map](http://www.mdavari.com/Data-Science-Portfolio/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.html) and 
      the [source_file.](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.html)
 
+    - In this project, Incidents responded to by fire companies in NYC dataset is used from [NYC OpenDate](    https://data.cityofnewyork.us/Public-Safety/Incidents-Responded-to-by-Fire-Companies/tm6d-hbzd/data
+), Census Populations by Zip Code is used from Data.gov and zip code latitude and longitude is used from [Census.gov](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).  
+    
+    ![github-small](http://opendata.cityofnewyork.us/)
+    ![github-small](https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2015/08/cl03j7swsaazth3-300x136.png)
+    
   _Tools: Pandas, Folium (Maps visualization), Numpy_
 
     
