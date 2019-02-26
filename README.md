@@ -20,6 +20,13 @@ Presented in the form of iPython Notebooks, and Python codes.
     
   _Tools: Pandas, Folium (Maps visualization), Numpy_
 
+- [Data Science Project 2: Risk and Returns (The Sharpe Ratio)](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS2_Risk%20and%20Returns/Risk%20and%20Returns:%20The%20Sharpe%20Ratio.ipynb):
+    The Sharpe ratio has been one of the most popular risk/return measures in finance.
+     In this project, we calculated the Sharpe ratio for the stocks of the two tech giants
+      Facebook and Amazon. As a benchmark, we'll use the S&P 500 that measures the performance
+       of the 500 largest stocks in the US.
+    
+  _Tools: Pandas, Numpy_
     
 - ### Machine Learning
 
