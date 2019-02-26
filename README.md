@@ -11,7 +11,7 @@ Presented in the form of iPython Notebooks, and Python codes.
     - [Data Science Project 1: Incidents responded to by fire companies in NYC in an interactive
      map](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.ipynb):
     This interactive map show the number of incidents happended in a neighborhood of NYC and the popup
-     on any datapoint in a given zip code, give the top 4 incident happended in the zip code during 2013-2017.
+     on any datapoint in a given zip code, give the top 4 incident happened in the zip code during 2013-2017.
 
     - Here is the link to see the [**HTML Map**](http://www.mdavari.com/Data-Science-Portfolio/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.html).
 
