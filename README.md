@@ -13,12 +13,12 @@ Presented in the form of iPython Notebooks, and Python codes.
     This interactive map show the number of incidents happended in a neighborhood of NYC and the popup
      on any datapoint in a given zip code, give the top 4 incident happened in the zip code during 2013-2017.
 
-    - Here is the link to see the [**HTML Map**](http://www.mdavari.com/Data-Science-Portfolio/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.html).
+      Here is the link to see the [**HTML Map**](http://www.mdavari.com/Data-Science-Portfolio/DS1_Interactive_Map/Incidents_Responded_to_by_Fire_Companies_Interactive_Map.html).
 
-    - In this project, Incidents responded to by fire companies in NYC dataset is used from [NYC OpenDate](    https://data.cityofnewyork.us/Public-Safety/Incidents-Responded-to-by-Fire-Companies/tm6d-hbzd/data
+      In this project, Incidents responded to by fire companies in NYC dataset is used from [NYC OpenDate](    https://data.cityofnewyork.us/Public-Safety/Incidents-Responded-to-by-Fire-Companies/tm6d-hbzd/data
 ), Census Populations by Zip Code is used from [Data.gov](https://catalog.data.gov/dataset/2010-census-populations-by-zip-code) and zip code latitude and longitude is used from [Census.gov](https://www.census.gov/geo/maps-data/data/gazetteer2017.html).  
     
-  _Tools: Pandas, Folium (Maps visualization), Numpy_
+    _Tools: Pandas, Folium (Maps visualization), Numpy_
 
     - [Data Science Project 2: Risk and Returns (The Sharpe Ratio)](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS2_Risk%20and%20Returns/Risk%20and%20Returns:%20The%20Sharpe%20Ratio.ipynb):
       The Sharpe ratio has been one of the most popular risk/return measures in finance.
@@ -26,7 +26,7 @@ Presented in the form of iPython Notebooks, and Python codes.
       Facebook and Amazon. As a benchmark, we'll use the S&P 500 that measures the performance
       of the 500 largest stocks in the US.
     
-  _Tools: Pandas, Numpy_
+    _Tools: Pandas, Numpy_
     
 - ### Machine Learning
 
