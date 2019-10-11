@@ -20,7 +20,7 @@ Presented in the form of iPython Notebooks, and Python codes.
     
     _Tools: Pandas, Folium (Maps visualization), Numpy_
 
-    - [Data Science Project 2: Activity Recognition](https://github.com/MahdiDavari/Data-Science-Portfolio/blob/master/DS2_Activity_Recognition/Activity_Recognition.ipynb):
+    - [Data Science Project 2: Activity Recognition](https://github.com/MahdiDavari/Data-Science-Portfolio/tree/master/DS2_Activity_Recognition):
       
        In this project, signal from single chest-mounted accelerometers is used to predict the people's activity among 7 classes, e.g., walking, standing, talking, etc. Dataset is used from [UCI](http://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer). 
 
