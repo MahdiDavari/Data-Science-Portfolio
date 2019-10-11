@@ -20,14 +20,14 @@
 - Data are separated by participant 
 - Each file contains the following information 
 - sequential number, x acceleration, y acceleration, z acceleration, label 
-    1. Labels are codified by numbers 
+- Labels are codified by numbers:
     1. Working at Computer 
-    1. Standing Up, Walking and Going updown stairs 
-    1. Standing 
-    1. Walking 
-    1. Going UpDown Stairs 
-    1. Walking and Talking with Someone 
-    1. Talking while Standing
+    2. Standing Up, Walking and Going updown stairs 
+    3. Standing 
+    4. Walking 
+    5. Going UpDown Stairs 
+    6. Walking and Talking with Someone 
+    7. Talking while Standing
 
 
 ## Relevant Papers:
